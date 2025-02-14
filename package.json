@@ -1,10 +1,10 @@
 {
-  "name": "kaspa-wasm",
+  "name": "@weatherstar/kaspa-wasm",
   "collaborators": [
     "Kaspa developers"
   ],
   "description": "KASPA WASM bindings",
-  "version": "0.15.2",
+  "version": "1.0.0",
   "license": "ISC",
   "repository": {
     "type": "git",
